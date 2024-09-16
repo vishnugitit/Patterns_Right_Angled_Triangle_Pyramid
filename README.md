@@ -1,0 +1,1 @@
+# Patterns_Right_Angled_Triangle_Pyramid
